@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+    <div>
+        <h3>Edit Student: </h3>
+
+        <form action="/Home/Index" method="Post">
+
+            <input type="text" name="Name" />
+            <input type="datetime" name="date" />
+            <input type="submit" value="Submit" />
+
+
+        </form>
+    </div>
+<br />
+<br />
+<div>
+    <h3>Edit Student: </h3>
+    <form action="/Home/EditStudent" method="post">
+        <input type="text" name="Id" placeholder="Student Id" />
+        <input type="text" name="Name" placeholder="Name" />
+        <input type="datetime" name="date" placeholder="MM/DD/YYYY" />
+        <input type="submit" value="Edit" />
+    </form>
+</div>
+
+<br />
+<br />
+
+<div>
+    <h3>Delete Student: </h3>
+    <form action="/Home/DeleteStudent" method="post">
+        <input type="text" name="Id" placeholder="Student Id" />
+        <input type="submit" value="Delete" />
+    </form>
+</div>

@@ -1,0 +1,9 @@
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\bin\Debug\netcoreapp3.1\Assignment6.Framework.Data.deps.json
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\bin\Debug\netcoreapp3.1\Assignment6.Framework.Data.dll
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\obj\Debug\netcoreapp3.1\Assignment6.Framework.Data.csprojAssemblyReference.cache
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\obj\Debug\netcoreapp3.1\Assignment6.Framework.Data.AssemblyInfoInputs.cache
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\obj\Debug\netcoreapp3.1\Assignment6.Framework.Data.AssemblyInfo.cs
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\bin\Debug\netcoreapp3.1\Assignment6.Framework.Data.pdb
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\obj\Debug\netcoreapp3.1\Assignment6.Framework.Data.csproj.CoreCompileInputs.cache
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\obj\Debug\netcoreapp3.1\Assignment6.Framework.Data.dll
+C:\Users\sarwa\source\repos\Assignment6\Assignment6.Framework.Data\obj\Debug\netcoreapp3.1\Assignment6.Framework.Data.pdb
