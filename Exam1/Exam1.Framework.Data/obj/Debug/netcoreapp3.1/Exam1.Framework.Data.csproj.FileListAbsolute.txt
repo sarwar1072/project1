@@ -1,0 +1,5 @@
+C:\Users\sarwa\source\repos\Exam1\Exam1.Framework.Data\bin\Debug\netcoreapp3.1\Exam1.Framework.Data.deps.json
+C:\Users\sarwa\source\repos\Exam1\Exam1.Framework.Data\bin\Debug\netcoreapp3.1\Exam1.Framework.Data.dll
+C:\Users\sarwa\source\repos\Exam1\Exam1.Framework.Data\obj\Debug\netcoreapp3.1\Exam1.Framework.Data.csprojAssemblyReference.cache
+C:\Users\sarwa\source\repos\Exam1\Exam1.Framework.Data\obj\Debug\netcoreapp3.1\Exam1.Framework.Data.AssemblyInfoInputs.cache
+C:\Users\sarwa\source\repos\Exam1\Exam1.Framework.Data\obj\Debug\netcoreapp3.1\Exam1.Framework.Data.AssemblyInfo.cs
